@@ -1,0 +1,4 @@
+com\wanhuchina\common\pageinfo\PageInfo.class
+com\wanhuchina\common\code\CommonCode.class
+com\wanhuchina\common\code\TxResultResponse.class
+com\wanhuchina\common\exception\CommonException.class
